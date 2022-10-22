@@ -1,3 +1,4 @@
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <h1 align="center">Hi 👋, I'm Hossam Hassan</h1>
@@ -9,7 +10,6 @@
 
 - 📫 How to reach me **hossam255@gmail.com**
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
